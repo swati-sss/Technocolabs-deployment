@@ -1,0 +1,2 @@
+The model for credit card default predictor is created and trained and then deployed on Heroku platform using streamlit library.
+Deployment Link: https://credit-card-default-check.herokuapp.com
